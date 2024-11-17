@@ -10,7 +10,7 @@ bracket
 matchup
 solid zero
 filename= covid strings7 first round.js
-first round=(Highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
+first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed = 1 seed
 second highest seed=2 seed
