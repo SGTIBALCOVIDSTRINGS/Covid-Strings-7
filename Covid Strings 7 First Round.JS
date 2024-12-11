@@ -4,7 +4,7 @@ html
 head
 utf eight
 viewport content=width=device-width, initial-scale=one>
-title covid strings7 bracket 
+title covid strings7  first round bracket 
 style
 bracket
 matchup
