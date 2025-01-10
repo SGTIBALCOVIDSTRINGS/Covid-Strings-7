@@ -1,11 +1,11 @@
 doc. type. html    
 script
-filename=covid strings7 game code .js
-java.awt graphics 
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document.getelementbyid(header)
 src.appendchild(this.img)
+filename=covid strings7 game code .js
+java.awt graphics 
 <div id=header></div>
 audio=new audio (audio_file mp3)
 audio.play 
@@ -15,13 +15,13 @@ private final j button option button=
 new j button (change color)
 public fun with graphics(){
 j panel color panel=new j panel();
-this add (color.panel, border layout. center )
+add (panel,center )
 jpanel button panel=
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
-random.button add actionlistener(new action listener(){
+random.button add actionlistener(new action listener)
 override 
-public void actionperformed(actionevente){
+publicactionperformed(actionevente){
 random r= newrandom();
 colorpanel.setbackground(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen),)(rnextint(thirteen)))(rnextint(thirteen))) (rnextint(thirteen))) (rnextint(thirteen))) (rnextint(thirteen)))
 num teams
@@ -34,12 +34,12 @@ teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
-public void actionperformed(actionevent e){
+public actionperformed(actionevent e){
 color m=jcolorchooser.showdialog(funwithgraphics.this,)
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel,borderlayout.south)
-public static void main(string [] args)
+public static  main(string [] args)
 jframe f = new covid strings7()
 f.set title(covid strings7)
 F.set default closeoperation(jframe.exit_on_close);
@@ -61,7 +61,7 @@ lblscore=document.getelementbyid(lblscore)
 lbl.score.innerHTML=score
 private jbutton next button=new jbutton(next)
 nextbutton add.actionlistener(this)
-public void actionperformed(action event e) 
+public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
 frame set visible true
@@ -128,7 +128,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -138,4 +138,8 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet) 
+if users team wins covid strings7 
+console log users team wins covid strings7 
+else
+return game over
 return filename
