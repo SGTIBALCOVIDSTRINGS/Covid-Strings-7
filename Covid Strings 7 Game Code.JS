@@ -9,14 +9,14 @@ java.awt graphics
 <div id=header></div>
 audio=new audio (audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton (set random color)
+button random button
+new button (set random color)
 private final j button option button=
-new j button (change color)
+new button (change color)
 public fun with graphics(){
-j panel color panel=new j panel();
+color panel=new j panel();
 add (panel,center )
-jpanel button panel=
+button panel
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
@@ -58,7 +58,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 private jbutton next button=new jbutton(next)
 nextbutton add.actionlistener(this)
 public actionperformed(action event e) 
@@ -69,7 +69,7 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [team color]
-covidstrings team list7=[green,teal,white,yellow,purple,violet,blue,turquoise]
+covidstrings team list7=[green peacemakers,teal terminators ,white transit angels ,yellow moxie ,purple brave hearts,violet relivers,blue curve crushers,turquoise waves]
 covidstringsphraselist7=[non-concatenated the trump covid coverup was one bad thing about americas covid response
 the chinese governments  downplaying though was worse
 one example was the hosting of a potluck even though they knew it could spread
