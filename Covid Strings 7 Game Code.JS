@@ -11,7 +11,7 @@ audio=new audio (audio_file mp3)
 audio.play 
 random button
 new button (set random color)
-private final j button option button=
+option button
 new button (change color)
 public fun with graphics(){
 color panel=new j panel();
