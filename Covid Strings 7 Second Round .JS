@@ -3,8 +3,18 @@ script
 html
 head
 utf8
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covidstrings 7 second round bracket
+div id bracket class bracket div
+script src bracket.js
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
+matchup
+solid zero;
+padding 
+text align center 
 filename=covid strings7 second round .js
 highest remaining seed=(greatest remaining num value in covid strings list)
 lowest remaining seed= (lowest remaining num value in covid strings list)
