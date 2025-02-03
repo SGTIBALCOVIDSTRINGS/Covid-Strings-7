@@ -3,7 +3,7 @@ script
 html
 head
 utf eight
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covid strings7  first round bracket 
 div id bracket class bracket div
 script src bracket .js
