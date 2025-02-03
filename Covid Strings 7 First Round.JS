@@ -5,10 +5,16 @@ head
 utf eight
 viewport content=width=device-width, initial-scale=one>
 title covid strings7  first round bracket 
-style
-bracket
+div id bracket class bracket div
+script src bracket .js
+link rel= stylesheet href=css
+head
+body
+bracket-container{}
 matchup
 solid zero
+padding 
+text align center 
 filename= covid strings7 first round.js
 first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
