@@ -6,7 +6,7 @@ utf eight
 viewport content=width=device-width, initial-scale=one
 title covid strings7  first round bracket 
 div id bracket class bracket div
-script src bracket .js
+script src bracket.js
 link rel= stylesheet href=css
 head
 body
@@ -29,22 +29,22 @@ lowest overall seed = 8 seed
 document.addeventlistener(domcontentloaded, () => {
 bracket =document.getelementbyid(bracket);
 teams= [green,teal,white,purple,yellow,violet,blue,turquoise]
-create matchup(violet versus white)
+matchup1=(violet versus white)
 matchup = document.createelement(div);
 matchup.classlist.add(matchup);
-matchup.innerHTML =<div>${team1}</div><div>${team2}</div>;
+matchup.inner html =<div>${team1}</div><div>${team2}</div>;
 return matchup;
-create matchup (blue versus teal )
+matchup2= (blue versus teal )
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1}</div><div>${team2}</div>;
+matchup.inner html = <div>${team1}</div><div>${team2}</div>;
 return matchup;
-creatematchup(yellow versus purple)
+matchup2=(yellow versus purple)
 matchup.classlist.add(matchup);
-matchup.innerHTML =<div>${team1}</div><div>${team2}</div>;
+matchup.inner html =<div>${team1}</div><div>${team2}</div>;
 return matchup;
-create matchup(turquoise versus green)
+matchup3=(turquoise versus green)
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1}</div><div>${team2}</div>;
+matchup.inner html = <div>${team1}</div><div>${team2}</div>;
 return matchup;
 createround = covid strings7 first round
 round = document.createelement(div);
@@ -53,7 +53,7 @@ for (let i = zero; i < teams.length; i += two) {
 round.appendchild(creatematchup(teams[i],teams[i+one]));
 return round;
 bracket.appendchild(createround(teams));
-matchup.innerHTML = <div class=team>${team1}</div><divclass=team>${team2}</div>;
+matchup.inner html = <div class=team>${team1}</div><divclass=team>${team2}</div>;
 java util.scanner
 java.util
 questions[]questions={
@@ -79,22 +79,22 @@ question18
 team.addeventlistener(click, () => {
 team.classlist.toggle(selected)
 advancingteams=slice (current teams)
-result= declarewinner(team1 score, team2 score)
-if white score>=fourty:
+result= declarewinner(matchup1)
+if white score>=forty:
 console.log(white transit angels win)
 else:
 console.log(violet relivers win)
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup2)
 if teal score>=forty:
 console.log(teal terminators win)
 else:
 console.log(blue curve crushers win)
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup3)
 if purple score>=forty:
 console.log(purple brave hearts win)
 else:
 console.log(yellow moxie wins)
-result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup4)
 if green score>=forty:
 console.log(green peacemakers win)
 else:
