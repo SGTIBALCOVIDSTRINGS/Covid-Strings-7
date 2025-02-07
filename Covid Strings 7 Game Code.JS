@@ -4,7 +4,7 @@ this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document.getelementbyid(header)
 src.appendchild(this.img)
-filename=covid strings7 game code .js
+filename=covid strings7.js
 java.awt graphics 
 <div id=header></div>
 audio=new audio (audio_file mp3)
