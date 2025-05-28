@@ -267,5 +267,9 @@ log(no winner yet)
 if users team wins covid strings7 
 console log users team wins covid strings7 
 else
+remain
+if users team loses covid strings7
 return game over
+else
+remain
 return filename
