@@ -136,24 +136,52 @@ team.classlist.toggle(selected)
 advancing rounds
 contains criteria required for a team to advance to the second round 
 advancingteams=slice (current teams)
+<subheading.html>
+result for matchup1 
+the code for how to determine the end result of matchup1 of covid strings 
 result= declarewinner(matchup1)
 if white score>=forty:
 console.log(white transit angels win)
 else:
+remain
+if violet score>=forty:
 console.log(violet relivers win)
+else:
+remain
+<subheading.html>
+result for matchup2 
+the code for how to determine the end result of matchup2 of covid strings 
 result=declarewinner(matchup2)
 if teal score>=forty:
 console.log(teal terminators win)
 else:
+remain
+If blue score>=forty:
 console.log(blue curve crushers win)
+else:
+remain
+<subheading.html>
+result for matchup3 
+the code for how to determine the end result of matchup3 of covid strings 
 result=declarewinner(matchup3)
 if purple score>=forty:
 console.log(purple brave hearts win)
 else:
+remain
+if yellow score>=forty:
 console.log(yellow moxie wins)
+else:
+remain
+<subheading.html>
+result for matchup4 
+the code for how to determine the end result of matchup4 of covid strings 
 result=declarewinner(matchup4)
 if green score>=forty:
 console.log(green peacemakers win)
 else:
+remain
+if turquoise score>=forty:
 console.log(turquoise waves win)
+else:
+remain
 return filename
