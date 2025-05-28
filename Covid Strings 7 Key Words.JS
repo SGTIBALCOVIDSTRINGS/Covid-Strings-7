@@ -1,14 +1,38 @@
 doc.type.html
+html
 script
-filename=covid strings 7 key words.js    
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings7’
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=keywords
+heading2=online references
+heading3=script templates
+filename=covid strings 7 key words.js   
+<header.html>
+keywords
+key search words for covid strings7
 covid strings 7 key word list=[covid coverup,impact,new to blame possible,august 2019 +4,they knew it could spread,number of deaths hidden,practices prevent acceleration,protests have occurred in china,not limited to china,chinas wrongdoing consequences,caused covid,viruses increase in future,could kill people,more,virus,climate change,missing money bigger,irrelevant going mainstream,bob woodward trump covered up]
 string=””
 for string in covid strings search word list
 select characters
 edit diffuse property
 desired color=green
+<header.html>
+online references 
+links to articles that correspond to phrases in covid strings7
 covid strings7 reference list=[a:i was dumbfounded:bob woodward reveals when trump officials exposed his pandemic lies (msn.com),b:china is relaxing its zero-covid policy  heres what scientists think (nature.com),c:china says multiple pathogens are behind spike in respiratory illnesses(msn.com),d:coronavirus:fact-checking claims it might have started in august2019 (bbc.com),e:why chinese communism could be the final casualty of the coronavirus -foundation for economic education (fee.org),f:how china can hide a million covid deaths -the atlantic,g:new un report outlines ways to curb growing spread of animal-to-human diseases |un news,h:china covid protests explained:why are people demonstrating and what will happen next? |china |the guardian,i:vietnams covid-19 success is a double-edged sword for the communist party the diplomat,j:holding the chinese communist party accountable for its response to the covid-19 outbreak |the heritage foundation,k: wild coronavirus variant discovery reveals same freak mutation that caused pandemic (msn.com),l:the increase in zoonotic diseases:the who,the why and the when? (understandinganimalresearch.org.uk),m:animal-to-human diseases could kill 12 times more people by 2050 (forbes.com),n:who chief pushes china for full access to solve covids origins (ft.com),o:germany is on alert.the first case of a deadly virus reported (msn.com),p:climate change increases cross-species viral transmission risk | nature,
 q:the mystery of russias missing wealth shows how putin retains his power(qz.com),r:gms mary barra talks future of electric vehicles |ap news,s:trumps covid coverup |the new yorker]
+<header.html>
+script templates
+code for accessing the references
 asset=this app.assets.find()
 template asset resource 
 entity template instantiate
