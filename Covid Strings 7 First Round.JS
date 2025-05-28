@@ -1,5 +1,29 @@
 doc. type. html
+html lang en
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings7 first round’
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=first round overview
+heading2=matchups
+heading3=first round matchups
+heading4=advancing rounds
+subheading1=team stealing
+subheading2=result for matchup1
+subheading3=result for matchup2
+subheading4=result for matchup3
+subheading5=result for matchup4
+<header.html>
+first round overview
+an overview  of the first round of covid strings7 includes seeding 
 html
 head
 utf eight
@@ -26,9 +50,12 @@ second middle seed = 5 seed
 third lowest seed= 6 seed
 second lowest seed = 7 seed
 lowest overall seed = 8 seed
-document.addeventlistener(domcontentloaded, () => {
+document.addeventlistener(domcontentloaded, () => 
 bracket =document.getelementbyid(bracket);
 teams= [green,teal,white,purple,yellow,violet,blue,turquoise]
+<header.html>
+matchups 
+for first round there are 8 teams which equals 4 matchups 
 matchup1=(violet versus white)
 matchup = document.createelement(div);
 matchup.classlist.add(matchup);
@@ -38,25 +65,28 @@ matchup2= (blue versus teal )
 matchup.classlist.add(matchup);
 matchup.inner html = <div>${team1}</div><div>${team2}</div>;
 return matchup;
-matchup2=(yellow versus purple)
+matchup3=(yellow versus purple)
 matchup.classlist.add(matchup);
 matchup.inner html =<div>${team1}</div><div>${team2}</div>;
 return matchup;
-matchup3=(turquoise versus green)
+matchup4=(turquoise versus green)
 matchup.classlist.add(matchup);
 matchup.inner html = <div>${team1}</div><div>${team2}</div>;
 return matchup;
 createround = covid strings7 first round
 round = document.createelement(div);
 round.classlist.add(round);
-for (let i = zero; i < teams.length; i += two) {
+for (let i = zero; i < teams.length; i += two) 
 round.appendchild(creatematchup(teams[i],teams[i+one]));
 return round;
 bracket.appendchild(createround(teams));
 matchup.inner html = <div class=team>${team1}</div><divclass=team>${team2}</div>;
+<header.html>
+first round questions
+the questions asked in the first round of the covid strings contest
 java util.scanner
 java.util
-questions[]questions={
+first round questions=questions[1-18]
 collections.shuffle(arrays.aslist(questions)
 question1
 question2
@@ -76,8 +106,35 @@ question15
 question16
 question17
 question18
-team.addeventlistener(click, () => {
+if selectedanswer==correct:
+return true
+else:
+return false
+if selectedanswer=incorrect
+return false
+else:
+return true
+team1=lower ranked seed
+team2=the higher seeded opponent
+points: 10 points or 20 points
+<subheading.html>
+team stealing
+steal points(stealingteam,victimteam,pointstosteal)
+if(victimteam.points>=pointtosteal)
+victimteam.points-=pointtosteal;
+stealingteampoints+=pointstosteal
+console.log([stealingteam.name} stole points from {victim team name}!)
+else:
+console.log({victimteam.name} doesnt have enough points to steal)
+if teams final answer==incorrect:
+opposing team steals
+else:
+change covid strings matchup  score
+team.addeventlistener(click,() => 
 team.classlist.toggle(selected)
+<header.html>
+advancing rounds
+contains criteria required for a team to advance to the second round 
 advancingteams=slice (current teams)
 result= declarewinner(matchup1)
 if white score>=forty:
