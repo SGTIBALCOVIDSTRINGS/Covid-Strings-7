@@ -64,7 +64,10 @@ teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
-public actionperformed(actionevent e){
+<header.html>
+game code part1
+part1 of game code for covid strings7(value object[team-color]-desired color green)
+public actionperformed(actionevent e)
 color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
 color panel set.background(multi)
@@ -72,7 +75,7 @@ this.add(buttonpanel,borderlayout.south)
 public static  main(string [] args)
 jframe f = new covid strings7()
 f.set title(covid strings7)
-F.set default closeoperation(exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
@@ -99,10 +102,19 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [team color]
-<header.html>
-game code part1
-part1 of game code for covid strings7(value object[team-color]-desired color green)
 covidstrings team list7=[green peacemakers,teal terminators ,white transit angels ,yellow moxie ,purple brave hearts,violet relivers,blue curve crushers,turquoise waves]
+<header.html>
+phrases
+phrases that involve both non-concatenated and concatenated strings 
+covidstringsphraselist7=[non-concatenated strings "the trump covid coverup was one bad thing about americas covid response","the chinese governments downplaying though was worse"
+"one example was the hosting of a potluck even though they knew it could spread","another thing was that the true number of deaths could be hidden"
+"it should not be surprising that protests have occurred in china","covid protests in asia have not just been limited to china either"
+"a potential solution involves using pressure to ensure that chinas wrongdoing has consequences","another solution involves more access"
+concatenated strings
+"the"+"environmental"+"impact"+"depends"+"on"+"context","the"+"idea"+"that"+"a"+"new"+"virus"+"may"+"be"+"to"+"blame"+"is"+"possible"
+"perhaps"+"it"+"involves"+"a"+"borno"+"virus","it"+"could"+"also"+"involve"+"the"+"same"+"mutation"+"that"+"caused"+"covid"+"in"+"the"+"first"+"place"
+"there"+"is"+"no"+"doubt"+"that"+"zoonotic"+"viruses"+"will"+"increase"+"in"+"the"+"future","they"+"will"+"kill"+"many"+"people"+"if"+"nothing"+"is"+"done"
+"climate"+"change"+"itself"+"is"+"an"+"accelerant","more"+"sustianable"+"practices"+"can"+"help"+"prevent"+"said"+"acceleration"]
 string manager{non-concatenated}
 insert string (entity,string)
 entity.element.text=string
@@ -116,39 +128,24 @@ for string in covid strings phrase list7
 select characters
 edit diffuse property
 desired color=green
-for string in covid strings math problems list7 
-select characters
-edit diffuse property
-desired color=green
-for string in covid strings sentence list7 
-select characters
-edit diffuse property
-desired color=green
-<header.html>
-phrases
-phrases that involve both non-concatenated and concatenated strings 
-covidstringsphraselist7=[non-concatenated "the trump covid coverup was one bad thing about americas covid response"
-"the chinese governments downplaying though was worse"
-"one example was the hosting of a potluck even though they knew it could spread"
-"another thing was that the true number of deaths could be hidden"
-"it should not be surprising that protests have occurred in china"
-"covid protests in asia have not just been limited to china either"
-"a potential solution involves using pressure to ensure that chinas wrongdoing has consequences"
-"another solution involves more access"
-concatenated strings
-"the"+"environmental"+"impact"+"depends"+"on"+"context"
-"the"+"idea"+"that"+"a"+"new"+"virus"+"may"+"be"+"to"+"blame"+"is"+"possible"
-"perhaps"+"it"+"involves"+"a"+"borno"+"virus"
-"it"+"could"+"also"+"involve"+"the"+"same"+"mutation"+"that"+"caused"+"covid"+"in"+"the"+"first"+"place"
-"there"+"is"+"no"+"doubt"+"that"+"zoonotic"+"viruses"+"will"+"increase"+"in"+"the"+"future"
-"they"+"will"+"kill"+"many"+"people"+"if"+"nothing"+"is"+"done"
-"climate"+"change"+"itself"+"is"+"an"+"accelerant"
-"more"+"sustianable"+"practices"+"can"+"help"+"prevent"+"said"+"acceleration"]
 <header.html>
 math problems
 covid related math problems that will appear in covid strings7
 covidstringsmathproblemslist7=[ non-concatenated "if a report surfaced that china knew as far back as august twenty nineteen that covid was spreading in wuhan but waited four months to publicly acknowledge that it existed when did the acknowledgement happen"?,"if said report made clear that telling the who earlier would have saved one thousand lives how many lives in total would have been saved"?,"if said report mentioned that countries should spend thirty percent of their public health budget on testing and tracing to save lives if the us spends only a sixth of the recommended amount in march twenty-twenty could a lot be done to prevent the spread"?,"if a poll found that seventy percent support the idea of increasing the amount of money the cdc spends on disease surveillance how many dont"?,"if the margin of error is four and fifty-nine hundreths percent what is the range"?,"if fifty-four out of the seventy nine percent strongly support increasing funding for disease surveillance how many mildly support it"?,"if a study found that increasing funding saves fifteen thousand six hundred lives what would the most obvious answer be"? 
 concatenated "if"+"trump"+"knew"+"that"+"covid"+"was"+"four"+"times"+"deadlier"+"than"+"previously"+"reported"+"how"+"many"+"lives"+"were"+"at"+"risk"+"if"+"the"+"official"+"death"+"toll"+"was"+"1500"?,"if"+"a"+"poll"+"showed"+"that"+"trumps"+"downplaying"+"cost"+"him"+"at"+"least"+"six"+"points"+"in"+"his"+"approval"+"rating"+"if"+"his"+"approval"+"rating"+"was"+"41"+"percent"+"what"+"is"+"it"+"now"?,"if"+"the"+"margin"+"of"+"error"+"is"+"three and forty five hundreths"+"percent"+"what"+"is"+"the"+"range"?,"if"+"the"+"average"+"is"+"around"+"eight"+"percent"+"what"+"is"+"the"+"most"+"likely"+"percent"?,"if"+"a"+"report"+"finds"+"that"+"there"+"is"+"a"+"fifty-five"+"percent"+"chance"+"that"+"the"+"new"+"virus"+"that"+"is"+"reported"+"from"+"europe"+"is"+"a"+"bornovirus"+"then"+"what"+"is"+"the"+"chance"+"that"+"said"+"report"+"is"+"wrong"?]
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings math problems list7 
+select characters
+edit diffuse property
+desired color=green
 public static main(string []args)
 int number
 number=number*2
@@ -183,6 +180,19 @@ covidstringsmultiplechoicelist7=[1:a biden b pence c trump d fauci, 2: a long-te
 sentences
 covid related sentences that will appear in covid strings7
 covidstringssentencelist7=[ non-concatenated "bob woodward is not the only journalist who believes trump covered up covid", concatenated "the"+"missing"+"money"+"from"+"covid"+"is"+"bigger"+"than"+"russias"+"missing"+"wealth","covid"+"could"+"be"+"one"+"example"+"of"+"whats"+"irrelevant"+"when"+"it"+"comes"+"to"+"electric-cars"+"going"+"mainstream","one"+"scientific"+"universe"+"involves"+"a"+"not"+"always"+"peaceful"+"relationship"+"with"+"covid"]
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings sentence list7 
+select characters
+edit diffuse property
+desired color=green
 string.split   
 arrays.aslist(list<string>)
 for(string ss:arr)
@@ -192,7 +202,7 @@ game code part2
 the rest of the game code including excluding answer and winner checker 
 java util.scanner
 java.util
-questions[]questions=
+questions=total# of questions from covid strings7 [first-championship round] 
 collections.shuffle(arrays.aslist(questions)
 userin.selectteam
 import meta.
@@ -262,8 +272,12 @@ the feature within covid strings that allows for the player to know if their tea
 check winner:
 if winner==true:
 log(the winner is)
+else:
+remain
 if winner==false:
-log(no winner yet) 
+log(no winner yet)
+else:
+log winner
 if users team wins covid strings7 
 console log users team wins covid strings7 
 else
