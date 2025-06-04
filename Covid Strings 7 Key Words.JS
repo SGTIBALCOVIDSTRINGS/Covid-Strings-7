@@ -20,8 +20,17 @@ filename=covid strings 7 key words.js
 keywords
 key search words for covid strings7
 covid strings 7 key word list=[covid coverup,impact,new to blame possible,august 2019 +4,they knew it could spread,number of deaths hidden,practices prevent acceleration,protests have occurred in china,not limited to china,chinas wrongdoing consequences,caused covid,viruses increase in future,could kill people,more,virus,climate change,missing money bigger,irrelevant going mainstream,bob woodward trump covered up]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
-for string in covid strings search word list
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings key word list
 select characters
 edit diffuse property
 desired color=green
